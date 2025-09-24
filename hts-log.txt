@@ -1,0 +1,58 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Sep 2025 01:10:17 at https://demo.egenslab.com/html/Avia Rates/preview/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Avia Rates
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.egenslab.com/html/gofly/preview/ -O1 "C:\Users\UEFI\Desktop\TourFly" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,Avia RatesAvia Rates
+Avia RatesAvia Rates
+	such as username/password authentication for websites mirrored in this prAvia RatesAvia Rates
+Avia RatesAvia Rates
+	do not share these files/folders if you want these information to remain Avia RatesteAvia Rates
+Avia RatesAvia Rates
+Avia RatesAvia Rates
+Avia RatesAvia Rates
+01:13:35	Warning: 	Retry after error -2 (Receive Time Out) at link https:/Avia Rates.egenslab.com/html/gofly/preview/assets/video/home1-banner-video.mp4 Avia Rates https://demo.egenslab.com/html/gofly/preview/)
+Avia RatesAvia Rates
+01:13:35	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/gofly/preview/assets/cssAvia Ratess/slick.eot (from https://demo.egenslab.com/html/gofly/preview/assets/css/slick-thAvia Ratesss)
+Avia RatesAvia Rates
+01:13:35	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/Avia Rates/preview/assets/css/fonts/slick.eot? (from https://demo.egenslab.com/html/gAvia Ratespreview/assets/css/slick-theme.css)
+Avia RatesAvia Rates
+01:13:35	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/Avia Rates/preview/assets/css/fonts/slick.woff (from https://demo.egenslab.com/html/gofly/Avia Ratesew/assets/css/slick-theme.css)
+Avia RatesAvia Rates
+01:13:35	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/gofly/pAvia Ratesw/assets/css/fonts/slick.ttf (from https://demo.egenslab.com/html/gofly/preview/asAvia Ratescss/slick-theme.css)
+Avia RatesAvia Rates
+01:13:35	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/gofly/preview/assets/css/fonts/slick.svg (from https://demo.egenslab.com/html/gofly/preview/assets/css/slick-theme.css)
+
+01:13:36	Warning: 	Retry after error -2 (Receive Time Out) at link https://demo.egenslab.com/html/gofly/preview/assets/video/home4-banner-video.mp4 (from https://demo.egenslab.com/html/gofly/preview/travel-agency-03.html)
+
+01:13:51	Warning: 	Retry after error -2 (Receive Time Out) at link https://demo.egenslab.com/html/gofly/preview/assets/video/home6-activity-video.mp4 (from https://demo.egenslab.com/html/gofly/preview/experience-01.html)
+
+01:13:52	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/gofly/preview/news-insight-grid.html (from https://demo.egenslab.com/html/gofly/preview/travel-inspiration-details.html)
+
+01:15:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://demo.egenslab.com/html/gofly/preview/assets/video/home1-banner-video.mp4 (from https://demo.egenslab.com/html/gofly/preview/)
+
+01:15:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://demo.egenslab.com/html/gofly/preview/assets/video/home4-banner-video.mp4 (from https://demo.egenslab.com/html/gofly/preview/travel-agency-03.html)
+
+01:15:51	Warning: 	Retry after error -2 (Receive Time Out) at link https://demo.egenslab.com/html/gofly/preview/assets/video/home6-activity-video.mp4 (from https://demo.egenslab.com/html/gofly/preview/experience-01.html)
+
+01:15:51	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/gofly/preview/assets/css/images/layers.png (from https://demo.egenslab.com/html/gofly/preview/assets/css/leaflet.css)
+
+01:15:51	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/gofly/preview/assets/css/images/layers-2x.png (from https://demo.egenslab.com/html/gofly/preview/assets/css/leaflet.css)
+
+01:15:51	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/gofly/preview/assets/css/images/marker-icon.png (from https://demo.egenslab.com/html/gofly/preview/assets/css/leaflet.css)
+
+01:17:03	Error: 	"Cancelled by User" (-1) at link https://demo.egenslab.com/html/gofly/preview/assets/video/home1-banner-video.mp4 (from https://demo.egenslab.com/html/gofly/preview/)
+
+01:17:04	Error: 	"Cancelled by User" (-1) at link https://demo.egenslab.com/html/gofly/preview/assets/video/home4-banner-video.mp4 (from https://demo.egenslab.com/html/gofly/preview/travel-agency-03.html)
+
+01:17:05	Error: 	"Cancelled by User" (-1) at link https://demo.egenslab.com/html/gofly/preview/assets/video/home6-activity-video.mp4 (from https://demo.egenslab.com/html/gofly/preview/experience-01.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 48 seconds : 709 links scanned, 690 files written (123699255 bytes overall) [125713584 bytes received at 308121 bytes/sec], 20624014 bytes transferred using HTTP compression in 193 files, ratio 38%, 64.4 requests per connection
+
+(12 errors, 6 warnings, 0 messages)
+
