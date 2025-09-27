@@ -35749,3 +35749,8 @@ header.style-3.two .main-menu > ul > li.active > a i {
   line-height: 1;
   margin-left: 2px;
 }/*# sourceMappingURL=style.css.map */
+
+.header-logo img {
+  width: 150px;
+  height: 61px;
+}
